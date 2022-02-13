@@ -1,0 +1,24 @@
+registrosAlumnos = [["es1","a1",73.05,72.4],["es1","a2",77.56,81.7],
+                   ["es2","a1",67.9,82.14],["es2","a2",87.60,85.97],
+                   ["es3","a1",70.5,72.8],["es3","a2",50.6,51.2],
+                   ["es4","a1",65.0,45.4],["es4","a2",71.8,77.9],
+                   ["es5","a1",78.1,74.7],["es5","a2",65.6,70.87],
+                   ["es6","a1",81.9,75.9],["es6","a2",69.0,75.6],
+                   ["es7","a1",78.6,68.90],["es7","a2",81.6,86.2]]
+
+proyectos2017 = ['PROY1','PROY2','PROY3','PROY4','PROY5','PROY6','PROY7','PROY8','PROY9','PROY10','PROY11']
+proyectos2018 = ['PROY2','PROY4','PROY5','PROY10','PROY11','PROY12','PROY13']
+proyectos2019 = ['PROY4','PROY10','PROY13','PROY14','PROY15','PROY16','PROY17']
+
+
+arrayGenes = [['genA','clase1',200],['genA','clase1',300],['genB','clase1',100],['genA','clase2',250],
+             ['genB','clase2',200],['genB','clase1',200],['genA','clase1',250],['genB','clase2',400],
+             ['genA','clase1',100],['genB','clase2',300],['genB','clase1',420],['genA','clase2',230],
+             ['genB','clase2',210]]
+
+datosEstudiantes = [['s1','Ana','D'],['s2','Cristobal','D'],['s3','Benjamin','N'],['s5','Amanda','N'],
+                    ['s8','Sandra','D']]
+
+lenguajesEstudiantes = [['s1','Python'],['s2','R'],['s3','Python'],['s1','Java'],['s3','Python'],
+                       ['s2','C++'],['s3','Scala'],['s5','Python'],['s10','React']]
+
